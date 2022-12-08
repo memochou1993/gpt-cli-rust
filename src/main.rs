@@ -1,5 +1,5 @@
 use dotenvy::dotenv;
-use openai_rust::fetch;
+use openai_cli_rust::fetch;
 use std::error::Error;
 
 #[tokio::main]
